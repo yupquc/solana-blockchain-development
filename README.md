@@ -27,6 +27,8 @@ Before starting tutorial repo, please check their README.md files first.
 
 # Other resources
 
+[EVM-to-SVM](/evm-to-svm/)
+
 https://solana.com/developers/courses (63 courses)
 
 https://www.rareskills.io/solana-tutorial (60 days)
